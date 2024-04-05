@@ -1,2 +1,3 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5009&pause=1000&color=1A71F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=575&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaque;Estudo+Redes+de+Computadores++na+Est%C3%A1cio)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Meu+nome+é+Isaque;Estudo+Redes+de+Commputadores+na+Estácio;Atualmente+estou+apredendo+e+atuando+em+DevSecOps+e+Cloud+Computing;Tenho+interesse+de+desenvolvimento+em+back-end+quanto+Front-end;Seja+Muito(@)+Bem-Vindo)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5009&pause=1000&color=ECF3F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=575&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaque;Estudo+Redes+de+Computadores++na+Est%C3%A1cio;Estou+atuando+nas+%C3%A1reas+de+DevSecOps+e+Cloud+Computing" alt="Typing SVG" /></a>
