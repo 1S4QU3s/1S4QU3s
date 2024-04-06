@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Isaque;Eu+estudo+Redes+de+computadores+na+Universidade+Estácio+de+Sá;Estou+aprendendo+e+atuando+em+DevSecOps;Tenho+interesse+no+desenvolvimento+em+Back-end+e+Front-end;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Isaque;Eu+estudo+Redes+de+computadores+na+Universidade+Estácio;Estou+atuando+em+DevSecOps;Tenho+interesse+no+desenvolvimento+em+Back-end;Bem+Vindo(@)!)](https://git.io/typing-svg)
 
 ### Habilidades Principais:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
