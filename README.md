@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🙋‍♂️+Olá,+meu+nome+é+Isaque;👨‍🎓Estudo+Redes+de+computadores+na+Estácio;💻+Estou+atuando+em+DevSecOps;🚀+Tenho+interesse+no+desenvolvimento+Back-end;Bem+Vindo(@)!+👍👊)](https://git.io/typing-svg)
 
 
-<img align=c:\Users\User\Desktop\Programming-amico(1).png>
-
+<img align="right" alt="300" height="380" src=![Programming-amico(1)](https://github.com/1S4QU3s/1S4QU3s/assets/159395767/0040dcec-c8aa-4d0e-b172-6218c9be299c)>
 
 ### ✔ Habilidades Principais:                                                                                                                             
    
