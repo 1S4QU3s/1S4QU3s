@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🙋‍♂️+Olá,+meu+nome+é+Isaque;👨‍🎓Estudo+Redes+de+computadores+na+Estácio;💻+Estou+atuando+em+DevSecOps;🚀+Tenho+interesse+no+desenvolvimento+Back-end;Bem+Vindo(@)!+👍👊)](https://git.io/typing-svg)
 
 
-<img align="right" alt="380" height="380" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=developer&position=7&from_view=keyword&track=sph&uuid=1ffead82-b386-4c39-9717-1c7271c3dec9">
-
+<img align=c:\Users\User\Desktop\Programming-amico(1).png>
 
 
 ### ✔ Habilidades Principais:                                                                                                                             
