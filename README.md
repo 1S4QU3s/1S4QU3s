@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1500&lines=🙋‍♂️+Olá,+meu+nome+é+Isaque;👨‍🎓Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+Estácio;💻+Estou+atuando+em+DevSecOps;🚀+Tenho+interesse+no+desenvolvimento+Back-end;Bem+Vindo(@)!+👍👊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1500&lines=🙋‍♂️+Olá,+meu+nome+é+Isaque;👨‍🎓Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+Estácio;💻+Estou+atuando+em+Cloud+Aws+e+DevSecOps;🚀+Tenho+interesse+no+desenvolvimento+Back-End;Bem+Vindo(@)!+👍👊)](https://git.io/typing-svg)
 
 
 
